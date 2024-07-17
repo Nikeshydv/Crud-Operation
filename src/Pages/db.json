@@ -1,0 +1,67 @@
+{
+  "student": [
+    {
+      "Name": "Nikesh Yadav",
+      "Rollno": 121,
+      "City": "Hoshangabad",
+      "Fees": 45000,
+      "id": "81ed"
+    },
+    {
+      "Name": "Yashaswi verma",
+      "Rollno": 122,
+      "City": "Bhopal",
+      "Fees": 50000,
+      "id": "072c"
+    },
+    {
+      "Name": "Vikas Shukla",
+      "Rollno": 123,
+      "City": "Rewa",
+      "Fees": 42500,
+      "id": "21f5"
+    },
+    {
+      "Name": "Rohit raj",
+      "Rollno": 124,
+      "City": "Satna",
+      "Fees": 43645,
+      "id": "ca58"
+    },
+    {
+      "id": "1b39",
+      "name": "MUKESH YADAV",
+      "rollno": "9001231557374",
+      "city": "Hoshangabad",
+      "fees": "4878545"
+    },
+    {
+      "id": "7918",
+      "name": "Bhanu",
+      "rollno": "3001230687732",
+      "city": "Bhoapl",
+      "fees": "45789"
+    },
+    {
+      "id": "cb59",
+      "name": "Satyam shukla",
+      "rollno": "3001230687732",
+      "city": "RATANGIRI",
+      "fees": "40000"
+    },
+    {
+      "id": "961f",
+      "name": "Digital marketing",
+      "rollno": "454",
+      "city": "Hoshangabad",
+      "fees": "45874"
+    },
+    {
+      "id": "ef01",
+      "rollno": "444",
+      "name": "jalaj",
+      "city": "pawekheda",
+      "fees": "78956"
+    }
+  ]
+}
